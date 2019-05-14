@@ -1,0 +1,4 @@
+             **Missed Topic**
+*) operator override
+*) destructor, copy constructor, deep constructor, etc
+*) conversion of classes
